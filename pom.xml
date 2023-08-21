@@ -18,7 +18,7 @@
     <!-- github only -->
     <dependency>
       <groupId>com.teragrep</groupId>
-      <artifactId>rlp_06</artifactId>
+      <artifactId>rlo_06</artifactId>
       <version>8.0.1</version>
     </dependency>
     <dependency>
